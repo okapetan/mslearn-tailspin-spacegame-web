@@ -40,7 +40,7 @@ namespace TailSpin.SpaceGame.Web
         }
 
         /// <summary>
-        /// Retrieves items from the store that match the given query predicate.//
+        /// Retrieves items from the store that match the given query predicate.
         /// Results are given in descending order by the given ordering predicate.
         /// </summary>
         /// <returns>
